@@ -8,3 +8,5 @@ import org.springframework.stereotype.Repository;
 public interface IBalanceRepository extends JpaRepository<Balance, Integer> {
 
 }
+
+// IBalanceRepository
